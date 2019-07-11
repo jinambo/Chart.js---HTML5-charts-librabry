@@ -27,5 +27,5 @@
         </div>
 ```
 
-You can set value of column or row from 0% to 100%.
-Graph bulk will set the height of column or in the case of row chart the width of row to the value + "00px".
+You can set **value** of column or row from **0%** to **100%**.
+Graph's attribute called **bulk** will set the **height of column** or in the case of row chart the **width of row** to the **value + "00px"**.
