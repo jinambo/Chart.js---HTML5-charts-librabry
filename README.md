@@ -1,8 +1,8 @@
 # 1. add CSS file to your HTML <head> tag
-  `<addr>` <link rel="stylesheet" href="graph.css">
+  `<link rel="stylesheet" href="graph.css">`
   
 # 2. add JS file to the end of your <body> tag
-  `<addr>` <script src="graph.js"></script>
+  `<script src="graph.js"></script>`
   
   
 ## Column chart
