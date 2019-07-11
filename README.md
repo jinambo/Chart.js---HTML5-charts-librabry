@@ -1,7 +1,7 @@
-# 1. add CSS file to your HTML <head> tag
+# 1. add CSS file to your `<head>` tag
   `<link rel="stylesheet" href="graph.css">`
   
-# 2. add JS file to the end of your <body> tag
+# 2. add JS file to the end of your `<body>` tag
   `<script src="graph.js"></script>`
   
   
