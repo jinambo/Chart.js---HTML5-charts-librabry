@@ -19,8 +19,8 @@ Column chart
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////// 
-Row chart
 
+Row chart
         <div class="graph-rows" graph-bulk="4">
             <div class="graph-rows-row" value="70"></div>
             <div class="graph-rows-row" value="35"></div>
