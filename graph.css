@@ -1,0 +1,60 @@
+.container {
+  width: 70%;
+  padding: 6px;
+  margin: 0 auto;
+  background: lightgray;
+  font-family: sans-serif;
+}
+
+.graph-columns {
+  margin: 0 10px;
+  height: auto;
+  display: inline-block;
+  position: relative;
+}
+
+.graph-columns .graph-columns-column {
+  width: 50px;
+  display: inline-block;
+  background: #d69509;
+  border: 3px solid #b67d03;
+  text-align: center;
+  position: relative;
+}
+
+.graph-columns .graph-columns-column p {
+  font-weight: bold;
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.graph-rows {
+  margin: 0 10px;
+  height: auto;
+  display: inline-block;
+  position: relative;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.graph-rows .graph-rows-row {
+  display: block;
+  height: 50px;
+  background: #57c001;
+  border: 3px solid #479e00;
+  text-align: center;
+  position: relative;
+  margin: 5px 0;
+}
+
+.graph-rows .graph-rows-row p {
+  font-weight: bold;
+  position: absolute;
+  top: 25%;
+  left: 15px;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+/*# sourceMappingURL=graph.css.map */
