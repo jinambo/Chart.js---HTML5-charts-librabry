@@ -8,6 +8,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
   
 Column chart
+
         <div class="graph-columns" graph-bulk="3">
             <div class="graph-columns-column" value="50"></div>
             <div class="graph-columns-column" value="30"></div>
@@ -21,6 +22,7 @@ Column chart
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////// 
 
 Row chart
+
         <div class="graph-rows" graph-bulk="4">
             <div class="graph-rows-row" value="70"></div>
             <div class="graph-rows-row" value="35"></div>
